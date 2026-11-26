@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zamzam | My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f0f5;
+      color: #333;
+      margin: 0;
+      text-align: center;
+    }
+    header {
+      background: #542653;
+      color: white;
+      padding: 50px 20px;
+    }
+    section {
+      background: white;
+      margin: 25px auto;
+      padding: 25px;
+      max-width: 650px;
+      border-radius: 12px;
+    }
+    h2 { color: #542653; }
+    a { color: #542653; }
+    footer {
+      background: #542653;
+      color: white;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Hello, I'm Zamzam Hasan Sanweyne</h1>
+  <p>Aspiring Software Engineer | Future Healthcare Professional</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>I am a student passionate about technology, innovation,
+  and helping people. I am learning software engineering
+  and developing my programming skills.</p>
+</section>
+
+<section>
+  <h2>My Interests</h2>
+  <p>Software Engineering, Web Development, Clinical Medicine
+  and Surgery, Healthcare, Medical Research and Technology.</p>
+</section>
+
+<section>
+  <h2>My Goals</h2>
+  <p>My goal is to become a skilled software engineer and
+  pursue my dream of working in Clinical Medicine and Surgery.</p>
+</section>
+
+<section>
+  <h2>My GitHub</h2>
+  <a href="https://github.com/zamiahassan">Visit my GitHub</a>
+</section>
+
+<footer>
+  <p>© 2026 Zamzam Hasan Sanweyne</p>
+</footer>
+
+</body>
+</html>
